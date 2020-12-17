@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://reverseengineering.stackexchange.com/users/34252/princekin" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/reverseengineering/Img/apple-touch-icon@2.png?v=5a6ef1bcd2c8" alt="34252" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UCJ6KTuQSYr-YmSnTbaIVDpw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="princekin" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCJ6KTuQSYr-YmSnTbaIVDpw" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/youtube-85-226402.png" alt="princekin" height="30" width="30" /></a>
 </p>
 
 <h3 align="center">A passionate Reverse Engineer</h3>
