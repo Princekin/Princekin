@@ -8,7 +8,7 @@
 <h3 align="center">A passionate backend developer</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=princekin" alt="princekin"/></p>
 
-- 🔭 I’m currently working on [PenumbraAntiLeak]
+- 🔭 I’m currently working on **PenumbraAntiLeak**
 
 - 🌱 I’m currently learning **Cybersecurity, Virtualization & Kernel level**
 
