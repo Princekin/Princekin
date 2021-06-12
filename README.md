@@ -8,7 +8,7 @@
 <h3 align="center">A passionate Reverse Engineer</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=princekin" alt="princekin"/></p>
 
-- 🔭 I’m currently working for **DexCoded Inc**
+- 🔭 I’m currently working for **DexCoded Inc.**
 
 - 🌱 I’m currently learning **Cybersecurity, Virtualization & Kernel level**
 
