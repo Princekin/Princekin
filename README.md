@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Princekin #0931 (Discord)**
 
-- ⚡ Fun fact **Want to move to Russia or Bulgaria**
+- ⚡ Fun fact **nothing.**
 
 
 <h3 align="left">Languages and Tools:</h3>
