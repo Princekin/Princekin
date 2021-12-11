@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java Bytecode Obfuscation, JVM Hacking**
 
-- 📫 How to reach me **Princekin #0931 (Discord)**
+- 📫 How to reach me **Princekin#0931 (Discord)**
 
 - ⚡ Fun fact **nothing.**
 
