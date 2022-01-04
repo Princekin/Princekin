@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working for [DexCoded Inc.](https://dexcoded.xyz)
 
-- 🌱 I’m currently learning **C++ Software Protection, Kernel Level.**
+- 🌱 I’m currently learning **C++ Software Protection, Kernel Level, Assembly Virtualization.**
 
 - 💬 Ask me about **Java Bytecode Obfuscation, JVM Hacking**
 
