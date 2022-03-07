@@ -1,13 +1,13 @@
 <h1 align="center">Princekin.</h1>
-<h3 align="center">Reverse Engineer</h3>
+<h3 align="center">Software Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekin&label=Profile%20views&color=0e75b6&style=flat" alt="princekin" /> </p>
 
-- 🔭 I’m currently working for [DexCoded Inc.](https://dexcoded.xyz)
+- 🔭 I’m currently working for [DexCoded Inc.](https://www.dexcoded.xyz)
 
-- 🌱 I’m currently learning **C++ Software Protection, Windows Kernel-Level and Malware Analysis.**
+- 🌱 I’m currently doing **Malware Analysis (Static and Dynamic Analysis).**
 
-- 💬 Ask me about **Java Bytecode Obfuscation, JVM Hacking**
+- 💬 Ask me about **Java Software Protection & Obfuscation (RE included)**
 
 - 📫 How to reach me **Princekin#0931 (Discord)**
 
