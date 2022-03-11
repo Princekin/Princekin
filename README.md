@@ -30,4 +30,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Princekin" alt="Princekin's github stats" align="left"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princekin&layout=compact" alt="Princekin's github stats" align="left"/>
