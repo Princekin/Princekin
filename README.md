@@ -27,4 +27,5 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <h3 align="left"> Statistics:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Princekin" alt="Princekin's github stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princekin&layout=compact" alt="Princekin's github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Princekin" alt="Princekin's github stats" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princekin&layout=compact" alt="Princekin's github stats" align="right"/>
