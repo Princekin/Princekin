@@ -1,7 +1,7 @@
 <h1 align="center">Princekin.</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=princekin&label=Profile%20views&color=0e75b6&style=flat" alt="princekin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=princekin&label=Profile%20views&color=gray&style=flat" alt="princekin" /> </p>
 
 - 🔭 I’m currently working for [**DexCoded Inc.**](https://www.dexcoded.xyz)
 
@@ -28,5 +28,5 @@
 
 <h3 align="left"> Statistics:</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Princekin" alt="Princekin's github stats" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Princekin&theme=dark" alt="Princekin's github stats" align="left"/>
 
