@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java Software Protection & Obfuscation (RE included)**
 
-- 📫 How to reach me **Princekin#1337 (Discord)**
+- 📫 How to reach me **Princekin#2052 (Discord)**
 
 - ⚡ Fun fact **nothing.**
 
