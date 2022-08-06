@@ -30,3 +30,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Princekin&theme=dark" alt="Princekin's github stats" align="left"/>
 
+<h3 align="left"> Languages:</h3>
+
+![Princekin's Github Stats](https://github-readme-stats.vercel.app/api?username=Princekin&theme=dark)  
+
