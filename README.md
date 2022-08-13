@@ -36,3 +36,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Princekin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/a7fcec19b2830125e9c49ba9139a9dad95f0b64a/github-contribution-grid-snake.svg)
+
