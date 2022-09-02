@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working for [**DexCoded Inc.**](https://www.dexcoded.xyz)
 
-- 🌱 I’m currently doing **Malware Analysis (Static and Dynamic Analysis).**
+- 🌱 I’m currently doing **Malware Analysis / C# & C++ Development**
 
-- 💬 Ask me about **Java Software Protection & Obfuscation (RE included)**
+- 💬 Ask me about **Malware & Security related stuff**
 
 - 📫 How to reach me **Princekin#2052 (Discord)**
-
-- ⚡ Fun fact **nothing.**
 
 
 <h3 align="left">Languages and Tools:</h3>
