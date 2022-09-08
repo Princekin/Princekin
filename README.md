@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working for [**DexCoded Inc.**](https://www.dexcoded.xyz)
 
-- 🌱 I’m currently doing **Malware Analysis / C# & C++ Development**
+- 🌱 I’m currently doing **C# & C++ Development**
 
-- 💬 Ask me about **Malware & Security related stuff**
+- 💬 Ask me about **Things**
 
 - 📫 How to reach me **Princekin#2052 (Discord)**
 
