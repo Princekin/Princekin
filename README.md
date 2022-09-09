@@ -3,13 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=princekin&label=Profile%20views&color=gray&style=flat" alt="princekin" /> </p>
 
-- 🔭 I’m currently working for [**DexCoded Inc.**](https://www.dexcoded.xyz)
+- 🔭 I’m currently working for [**Xlaxo Inc.**](https://www.xlaxo.xyz)
 
-- 🌱 I’m currently doing **C# & C++ Development**
+- 🌱 I’m currently doing **C# & C++ Software Development / RE**
 
-- 💬 Ask me about **Things**
-
-- 📫 How to reach me **Princekin#2052 (Discord)**
+- 📫 How to reach me **Princekin#0126 (Discord)**
 
 
 <h3 align="left">Languages and Tools:</h3>
