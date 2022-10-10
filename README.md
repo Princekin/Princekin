@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently doing **C# & C++ Software Development / RE**
 
-- 📫 How to reach me **Princekin#0126 (Discord)**
+- 📫 How to reach me **Princekin#4336 (Discord)**
 
 
 <h3 align="left">Languages and Tools:</h3>
