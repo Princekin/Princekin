@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working for [**Xlaxo Inc.**](https://www.xlaxo.xyz)
 
-- 🌱 I’m currently doing **C# & C++ Software Development / RE**
+- 🌱 I’m currently doing **C# & C++ Software Development / Malware Analysis**
 
 - 📫 How to reach me **Princekin#4336 (Discord)**
 
