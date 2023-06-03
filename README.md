@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=princekin&label=Profile%20views&color=gray&style=flat" alt="princekin" /> </p>
 
-- 🔭 I’m currently working for [**Xlaxo Inc.**](https://www.xlaxo.xyz)
-
 - 🌱 I’m currently doing **C# & C++ Software Development / Malware Analysis**
 
 - 📫 How to reach me **Princekin#4336 (Discord)**
